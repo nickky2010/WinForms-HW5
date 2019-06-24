@@ -1,6 +1,30 @@
-# WinForms-HW5
-ITStep(Gomel)-WinForms Home work 5
+# Task 1
+***
+#### Разработать приложение `Windows Forms`  для построения графиков функций `sinx^2` и `cosx+1` с использованием возможностей `GDI+`. Программу писать в стиле ООП.
 
-Develop a Windows Forms application for graphing the functions sin x^2 and cos x+1 using the features of GDI+. 
+Вид окна приложения после запуска:
 
-Program to write in the style of OOP.
+![Alt text](/Task/Image/1.PNG?raw=true "Приложение после запуска")
+
+Вид окна приложения по графикам функций sinx^2 и cosx+1`:
+
+![Alt text](/Task/Image/2.PNG?raw=true "График функций sinx^2 и cosx+1")
+
+Вид окна приложения по графику функции `sinx^2`:
+
+![Alt text](/Task/Image/3.PNG?raw=true "График функции sinx^2")
+ 
+Вид окна приложения по графику функции `cosx+1`:
+
+![Alt text](/Task/Image/4.PNG?raw=true "График функции cosx+1")
+
+Дополнить программу возможностью выбора диапазона аргумента функции. 
+
+Не допускать дублирования кода
+
+***
+#### Решение:
+
+График функции `sinx^2` и `cosx+1` в пределах от `-3` до `3` построенный по `100` точкам:
+
+![Alt text](/Task/Image/5.PNG?raw=true "График функций sinx^2 и cosx+1")
